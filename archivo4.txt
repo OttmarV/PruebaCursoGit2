@@ -1,5 +1,8 @@
 linea1
 linea2
+<<<<<<< HEAD
 linea3
 linea4
 linea5
+=======
+>>>>>>> parent of 5fb4fc7... agregando linea 3 en archivo4
